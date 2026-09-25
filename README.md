@@ -16,7 +16,7 @@ Sou **Desenvolvedor Full Stack** em formação, estudante de TI, com foco em con
 
 **CMS:** WordPress.
 
-`JS` `TS` `React` `Node.js` `Java` `PostgreSQL`
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,java,spring,php,postgres,mongodb,wordpress,git,docker)
 
 ---
 
@@ -38,4 +38,8 @@ Sou **Desenvolvedor Full Stack** em formação, estudante de TI, com foco em con
 
 ### 📫 Vamos Conversar?
 
-- LinkedIn:https://www.linkedin.com/in/yurigsouza/
+Seja para falar sobre tecnologia, projetos ou oportunidades, fica à vontade pra me chamar:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yurigsouza/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yurigsoouza@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yurigome)
